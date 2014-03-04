@@ -1,0 +1,12 @@
+[submodule "percona"]
+	path = percona
+	url = https://github.com/alyu/docker
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/dockerfile/nginx
+[submodule "redis"]
+	path = redis
+	url = https://github.com/dockerfile/redis
+[submodule "ghost"]
+	path = ghost
+	url = https://github.com/dockerfile/ghost
