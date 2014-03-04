@@ -10,3 +10,6 @@
 [submodule "ghost"]
 	path = ghost
 	url = https://github.com/dockerfile/ghost
+[submodule "magento-nginx"]
+	path = magento-nginx
+	url = https://github.com/dockerfiles/magento-nginx.git
